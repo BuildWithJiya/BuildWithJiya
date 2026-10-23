@@ -1,4 +1,25 @@
-## Hi there 👋
+### Hey, I'm Jiya 👋
+
+**Frontend / Software Developer in the making**  
+Building clean, functional, and user-friendly web applications.
+
+[LinkedIn](https://linkedin.com/in/jiyasah/)  • [Email](jiyasah001@gmail.com)
+
+---
+
+### 🚀 What I Built
+
+- **[Password Generator](https://github.com/BuildWithJiya/Password-Generator)** — A sleek, dark-mode password generator web app with custom length controls, cryptographic entropy, and rule toggles. Built with HTML, CSS, and JavaScript.
+
+- **[Ecommerce Website]()** — Add a 1–2 sentence description highlighting the features and tech stack used.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** JavaScript, HTML5, CSS3, TypeScript
+- **Frameworks & Libraries:** React, Node.js, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
 
 <!--
 **BuildWithJiya/BuildWithJiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
