@@ -8,7 +8,7 @@ Building clean, functional, and user-friendly web applications.
 ---
 
 ###  What I Built
-- **[JAVA](https://github.com/BuildWithJiya/JAVA.git)**
+- **[DATA STRUCTURE](https://github.com/BuildWithJiya/DS.git)**
 - **[Password Generator](https://github.com/BuildWithJiya/Password-Generator.git)** — A sleek, dark-mode password generator web app with custom length controls, cryptographic entropy, and rule toggles. Built with HTML, CSS, and JavaScript.
 
 - **[Ecommerce Website](https://github.com/BuildWithJiya/Ecommerce-site.git)** — A modern, aesthetic Gen-Z fashion e-commerce storefront with category filtering.
